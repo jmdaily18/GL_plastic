@@ -1,4 +1,3 @@
 bqplot
 scipy
 numpy
-cartopy.crs
