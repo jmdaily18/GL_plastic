@@ -3,5 +3,4 @@ scipy
 numpy
 voila
 ipywidgets
-IPython.display
 warnings
