@@ -2,4 +2,4 @@ bqplot
 scipy
 numpy
 voila
-warnings
+
