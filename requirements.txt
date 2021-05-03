@@ -1,3 +1,4 @@
 bqplot
 scipy
 numpy
+voila
