@@ -2,5 +2,4 @@ bqplot
 scipy
 numpy
 voila
-ipywidgets
 warnings
